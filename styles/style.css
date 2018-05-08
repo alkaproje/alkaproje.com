@@ -514,6 +514,15 @@ img.picture {
     text-align: center;
 }
 
+#contact p a {
+    color: #333333;
+    text-decoration: none;
+}
+
+#contact p a:hover {
+    color: rgba(230, 35, 50, 1);
+}
+
 #contact #map {
     height: inherit;
     display: block;

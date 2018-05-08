@@ -9,7 +9,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "dalamanemniyetmudurlugu",
         "title" : "Dalaman Emniyet Müdürlüğü Binası",
@@ -20,7 +20,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "kirsehirpolismeslekyuksekokulu",
         "title" : "Kırşehir Polis Meslek Yüksekokulu",
@@ -31,7 +31,7 @@
         "type" : "Eğitim",
         "description" : ""
     },
-    
+
     {
         "code" : "duzcehukumetkonagi",
         "title" : "Düzce Hükümet Konağı",
@@ -42,7 +42,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "artukluvillasi",
         "title" : "Artuklu Villası",
@@ -53,7 +53,7 @@
         "type" : "Konut",
         "description" : ""
     },
-    
+
     {
         "code" : "bagdatotel",
         "title" : "Bağdat Otel",
@@ -64,7 +64,7 @@
         "type" : "Ticaret",
         "description" : ""
     },
-    
+
     {
         "code" : "bitlishalbinasiotelprojesi",
         "title" : "Bitlis Hal Binası ve Otel Projesi",
@@ -75,7 +75,7 @@
         "type" : "Karma K.",
         "description" : ""
     },
-    
+
     {
         "code" : "trablusulusalparkprojesi",
         "title" : "Trablus Ulusal Park Projesi",
@@ -86,7 +86,7 @@
         "type" : "Kentsel",
         "description" : ""
     },
-    
+
     {
         "code" : "tripolirestaurant",
         "title" : "Tripoli Restaurant",
@@ -97,7 +97,7 @@
         "type" : "Ticaret",
         "description" : ""
     },
-    
+
     {
         "code" : "adorefabrikabinasi",
         "title" : "Adore Fabrika Binası",
@@ -108,7 +108,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "zawiahalisverismerkezi",
         "title" : "Zawiah Alışveriş Merkezi",
@@ -119,7 +119,7 @@
         "type" : "Ticaret",
         "description" : ""
     },
-    
+
     {
         "code" : "mavicamsosyaltesisi",
         "title" : "Maviçam Sosyal Tesisi",
@@ -130,7 +130,7 @@
         "type" : "Kültür",
         "description" : ""
     },
-    
+
     {
         "code" : "canakkaleikiyuzyatakliarastirmahastanesi",
         "title" : "Çanakkale 200 Yataklı Araştırma Hastanesi",
@@ -141,7 +141,7 @@
         "type" : "Sağlık",
         "description" : ""
     },
-    
+
     {
         "code" : "kadilaranaokulu",
         "title" : "Kadılar Anaokulu",
@@ -152,7 +152,7 @@
         "type" : "Eğitim",
         "description" : ""
     },
-    
+
     {
         "code" : "tcddzonguldakgar",
         "title" : "TCDD Zonguldak Gar Binası",
@@ -163,7 +163,7 @@
         "type" : "Kamu",
         "description" : ""
     },
-    
+
     {
         "code" : "ankaraeczaciodasi",
         "title" : "Ankara Eczacı Odası",
@@ -174,7 +174,7 @@
         "type" : "Sağlık",
         "description" : ""
     },
-    
+
     {
         "code" : "afyonmeteorolojibolgemudurlugu",
         "title" : "Afyon Meteoroloji Bölge Müdürlüğü",
@@ -185,7 +185,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "artukluofisbinasi",
         "title" : "Artuklu Ofis Binası",
@@ -196,7 +196,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "akdagmadenibelediyesi",
         "title" : "Akdağmadeni Belediye Hizmet Binası",
@@ -207,7 +207,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "anadolumetalurjifabrikabinasi",
         "title" : "Anadolu Metalurji Fabrika Binası",
@@ -218,7 +218,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "kizilaysosyaltesisi",
         "title" : "Türk Kızılayı Sosyal Tesisi",
@@ -229,7 +229,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "okaenerji",
         "title" : "OKA Enerji Yönetim Binası",
@@ -240,7 +240,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "meteorolojiradartesisi",
         "title" : "Meteoroloji Radar Tesisi Tip Projesi",
@@ -251,7 +251,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "polatlihuzurevi",
         "title" : "Polatlı 100 Yataklı Huzurevi Binası",
@@ -262,7 +262,7 @@
         "type" : "Sağlık",
         "description" : ""
     },
-    
+
     {
         "code" : "botanikgiriskarsilama",
         "title" : "Milli Botanik Parkı Giriş ve Karşılama Merkezi",
@@ -273,7 +273,7 @@
         "type" : "Karma K.",
         "description" : ""
     },
-    
+
     {
         "code" : "aykonfabrika",
         "title" : "Aykon Pano Fabrika Binası",
@@ -284,7 +284,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "atabekalisverismerkezi",
         "title" : "Atabek Alışveriş Merkezi",
@@ -295,7 +295,7 @@
         "type" : "Ticaret",
         "description" : ""
     },
-    
+
     {
         "code" : "babacankaucukfabrikabinasi",
         "title" : "Babacan Kauçuk Fabrika Binası",
@@ -306,7 +306,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "ekonhidroelektrikkaucukfabrikabinasi",
         "title" : "Ekon Hidrolik - Kauuk Fabrika Binası",
@@ -317,7 +317,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "ekolplastikambalajfabrikabinasi",
         "title" : "Ekol Plastik Ambalaj Fabrika Binası",
@@ -328,7 +328,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "eptimelektrikfabrikabinasi",
         "title" : "Eptim Elektrik Fabrika Binası",
@@ -339,7 +339,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "jescofabrikabinasi",
         "title" : "Jesco Fabrika Binası",
@@ -350,7 +350,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "onarimakinafabrikabinasi",
         "title" : "Önarı Makina Fabrika Binası",
@@ -361,7 +361,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "ozbekkoyukoymuhtarligi",
         "title" : "Özbek Köyü Köy Konağı Binası",
@@ -372,7 +372,7 @@
         "type" : "Kültür",
         "description" : ""
     },
-    
+
     {
         "code" : "titanmakinafabrikabinasi",
         "title" : "Titan Makina Fabrika Binası",
@@ -383,7 +383,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "hayvanatbahcesiteleferikprojesialternatifbir",
         "title" : "Hayvanat Bahçesi Teleferik Projeleri",
@@ -394,7 +394,7 @@
         "type" : "Kamu",
         "description" : ""
     },
-    
+
     {
         "code" : "sislikonutprojesi",
         "title" : "Şişli Konut Projesi",
@@ -405,7 +405,7 @@
         "type" : "Konut",
         "description" : ""
     },
-    
+
     {
         "code" : "damlakimyafabrikabinasi",
         "title" : "Damla Kimya Fabrika Binası",
@@ -416,7 +416,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "alpkarasarfabrikabinasi",
         "title" : "Alp Karasar Fabrika Binası",
@@ -427,7 +427,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "formelektrikfabrika",
         "title" : "Formelektrik Fabrika Binası",
@@ -438,7 +438,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "yenimahallesentepeteleferik",
         "title" : "Yenimahalle Şentepe Teleferik Projesi",
@@ -449,7 +449,7 @@
         "type" : "Karma K.",
         "description" : ""
     },
-    
+
     {
         "code" : "visanvincfabrika",
         "title" : "VİSAN Vinç Fabrika Binası",
@@ -460,7 +460,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "aydinlikevlerkapalipazaryeri",
         "title" : "Aydınlıkevler Kapalı Pazar Alanı",
@@ -471,7 +471,7 @@
         "type" : "Ticaret",
         "description" : ""
     },
-    
+
     {
         "code" : "eberkmakinafabrikabinasi",
         "title" : "E-BERK Makina Fabrika Binası",
@@ -482,7 +482,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "matestasitsanayifabrikabinasi",
         "title" : "MATEŞ Taşıt Sanayi Fabrika Binası",
@@ -493,7 +493,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "teknikgrupfabrikabinasi",
         "title" : "Teknik Grup Fabrika Binası",
@@ -504,7 +504,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "akdagmadenikonferanssalonu",
         "title" : "Akdağmadeni Sinema ve Konferans Salonu Projesi",
@@ -515,7 +515,7 @@
         "type" : "Karma K.",
         "description" : ""
     },
-    
+
     {
         "code" : "altindagtapu",
         "title" : "Altındağ Tapu ve Kadastro Hizmet Binası",
@@ -526,7 +526,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "artukluyonetimbinasi",
         "title" : "Artuklu İnşaat Yönetim Binası",
@@ -537,7 +537,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "ceskompozit",
         "title" : "C.E.S. Kompozit Fabrika Binası",
@@ -548,7 +548,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "eregliptt",
         "title" : "Ereğli PTT",
@@ -559,7 +559,7 @@
         "type" : "Ofis",
         "description" : ""
     },
-    
+
     {
         "code" : "mediflexmedikalfabrikabinasi",
         "title" : "Mediflex Medikal Fabrika Binası",
@@ -570,7 +570,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "istemfabrikabinasi",
         "title" : "İstem Medical Fabrika Binası",
@@ -581,7 +581,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "ahmetyesevicamii",
         "title" : "Ahmet Yesevi Camii",
@@ -592,7 +592,7 @@
         "type" : "Kültür",
         "description" : ""
     },
-    
+
     {
         "code" : "gungorenitfaiyebinasi",
         "title" : "Güngören İtfaiye Binası",
@@ -603,7 +603,7 @@
         "type" : "Kamu",
         "description" : ""
     },
-    
+
     {
         "code" : "degirmenkoyitfaiyebinasi",
         "title" : "Silivri Değirmenköy İtfaiye Binası",
@@ -614,7 +614,7 @@
         "type" : "Kamu",
         "description" : ""
     },
-    
+
     {
         "code" : "aocankaradogalyasamparkikamusalmeydan",
         "title" : "AOÇ Ankara Doğal Yaşam Parkı Kamusal Meydan Projesi",
@@ -625,7 +625,7 @@
         "type" : "Kentsel",
         "description" : ""
     },
-    
+
     {
         "code" : "dikilitasanaokulu",
         "title" : "Dikilitaş Çocuk Kulübü ve Zemin Altı Otoparkı",
@@ -636,7 +636,7 @@
         "type" : "Eğitim",
         "description" : "Anaokulu olabildiğince çevresindeki yollardan geri çekilmiş; sınıflar ve performans alanı kamusal park içerisinde bırakılmıştır. Bir iç avlu çevresinde kurgulanan anaokulunun dışarıyla olan ilişkisi güvenlik sebepleriyle kesilmiştir. İç avlu, etrafındaki camlı koridor sayesinde görsel ve işlevsel olarak genişletilmiş, iç avlunun sınıflar ile ilişki kurması sağlanmıştır. Giriş kısmında idare ve performans alanı düşünülmüştür. Performans alanı, çocukların çeşitli etkinlikler yapmalarına ve bunları ebeveynlerine sunmalarına olanak sağlayarak, sosyal gelişimlerine katkı yapmak amaçlanmıştır."
     },
-    
+
     {
         "code" : "esenyurtanaokulu",
         "title" : "Esenyurt Anaokulu ve Zemin Altı Otoparkı",
@@ -647,7 +647,7 @@
         "type" : "Eğitim",
         "description" : "Anaokulu yapısı; parsel üzerinde yer seçimi yapılırken, ön kısımda kamu kullanımına açık park alanı oluşturmak amacıyla yoldan geri çekilmiştir. Anaokuluna ulaşım açık otopark tarafında düzenlenmiş ayrıca açık otoparkta öğrenci servisleri için otopark alanı ayrılmıştır. Çeşitli güvenlik sebepleriyle yapı, bir iç avlu çevresinde kurgulanmıştır. Sınıflar kuzeydoğu tarafındaki mevcut Havana Parkına ve parselde düzenlenecek olan kamusal park alanına yönlendirilmiştir. Sınıflar ve performans alanı iç avluyla ilişkilendirilmiş, avlu çevresinde düşünülen toplanır camlarla bu ilişki artırılmıştır. Performans alanı, koridorlar ve iç avlu bir bütün olarak tasarlanmış ve çocukların bütün sosyal etkinliklerini gerçekleştirebilecekleri bir alana dönüşmüştür. Anaokulu yapısı, cephedeki renkli cam ve ahşap kaplamalarıyla, kareden deforme edilmiş yapı kütlesiyle; kendini tekrar eden kent dokusundan ayrılmıştır."
     },
-    
+
     {
         "code" : "sultangaziambarprojesi",
         "title" : "Sultangazi Ambar Projesi",
@@ -658,9 +658,9 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
-        "code" : "bahcelievlersportesisiveotoparkı",
+        "code" : "bahcelievlersportesisiveotoparki",
         "title" : "Bahçelievler Spor Tesisi ve Zeminaltı Otoparkı",
         "client" : "İstanbul Büyükşehir Belediyesi",
         "place" : "Bahçelievler, İstanbul",
@@ -669,7 +669,7 @@
         "type" : "Karma K.",
         "description" : ""
     },
-    
+
     {
         "code" : "kocaelikulturvekongremerkezi",
         "title" : "Kocaeli Kültür ve Kongre Merkezi",
@@ -680,7 +680,7 @@
         "type" : "Kültür",
         "description" : ""
     },
-    
+
     {
         "code" : "mateksfabrika",
         "title" : "Mateks Fabrika Bİnası",
@@ -691,7 +691,7 @@
         "type" : "Endüstri",
         "description" : ""
     },
-    
+
     {
         "code" : "eyupyurtsporsalonu",
         "title" : "Eyüp Çırçır Yurt ve Spor Salonu Projesi",
@@ -702,7 +702,7 @@
         "type" : "Eğitim",
         "description" : ""
     },
-    
+
     {
         "code" : "fatihengellileritfaiye",
         "title" : "Fatih Engelliler Merkezi ve İtfaiye İstasyonu",
@@ -713,7 +713,7 @@
         "type" : "Eğitim",
         "description" : ""
     },
-    
+
     {
         "code" : "gopzopsporsalonu",
         "title" : "GOP Spor Kompleksi ve Meydan Projesi",
@@ -724,9 +724,9 @@
         "type" : "Karma K.",
         "description" : ""
     },
-    
+
     {
-        "code" : "sariyerilceemniyetbinasıveaciksporalanları",
+        "code" : "sariyerilceemniyetbinasiveaciksporalanlari",
         "title" : "Sarıyer İlçe Emniyet Binası ve Açık Spor Alanları",
         "client" : "İstanbul Büyükşehir Belediyesi",
         "place" : "Sarıyer, İstanbul",
@@ -735,7 +735,7 @@
         "type" : "Kamu",
         "description" : ""
     },
-    
+
     {
         "code" : "gopilceemniyetmudurlugu",
         "title" : "Gaziosmanpaşa İlçe Emniyet Müdürlüğü",
@@ -746,7 +746,7 @@
         "type" : "Kamu",
         "description" : ""
     },
-    
+
     {
         "code" : "esenlercamii",
         "title" : "Esenler Camii ve Zeminaltı Otopark Projesi",
@@ -757,7 +757,7 @@
         "type" : "Kültür",
         "description" : ""
     },
-    
+
     {
         "code" : "sancaktepecocukkulubu",
         "title" : "Sancaktepe Çocuk Kulübü",
@@ -768,7 +768,7 @@
         "type" : "Eğitim",
         "description" : ""
     },
-    
+
     {
         "code" : "hitituniversitesikuzeykampusukongremerkezi",
         "title" : "Hitit Üniversitesi Kuzey Kampüsü Kongre Merkezi",
