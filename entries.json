@@ -452,17 +452,6 @@
     },
 
     {
-        "code" : "visanvincfabrika",
-        "title" : "VİSAN Vinç Fabrika Binası",
-        "client" : "VİSAN Vinç",
-        "place" : "Temelli, Ankara",
-        "year" : "2015",
-        "scale" : "3670",
-        "type" : "Endüstri",
-        "description" : ""
-    },
-
-    {
         "code" : "aydinlikevlerkapalipazaryeri",
         "title" : "Aydınlıkevler Kapalı Pazar Alanı",
         "client" : "Altındağ Belediyesi",
@@ -679,6 +668,17 @@
         "year" : "2016",
         "scale" : "49220",
         "type" : "Kültür",
+        "description" : ""
+    },
+
+    {
+        "code" : "visanvincfabrika",
+        "title" : "VİSAN Vinç Fabrika Binası",
+        "client" : "VİSAN Vinç",
+        "place" : "Temelli, Ankara",
+        "year" : "2015",
+        "scale" : "3670",
+        "type" : "Endüstri",
         "description" : ""
     },
 
