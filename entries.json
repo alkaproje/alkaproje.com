@@ -760,6 +760,17 @@
     },
 
     {
+        "code" : "tokatkoycamii",
+        "title" : "Tokatköy Camii ve Hizmet Binası Projesi",
+        "client" : "İstanbul Büyükşehir Belediyesi",
+        "place" : "Beykoz, İstanbul",
+        "year" : "2018",
+        "scale" : "5447",
+        "type" : "Kültür",
+        "description" : ""
+    },
+
+    {
         "code" : "sancaktepecocukkulubu",
         "title" : "Sancaktepe Çocuk Kulübü",
         "client" : "İstanbul Büyükşehir Belediyesi",
