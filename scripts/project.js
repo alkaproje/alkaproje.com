@@ -354,7 +354,7 @@ function getPictures(projectName) {
     var i = 1;
     for(;;i++){
         if(UrlExists('http://res.cloudinary.com/alkaproje/image/upload/projects/' + projectName + '/' + i + '.jpg')){
-            $('#' + projectName + ' .pictures').append('<img class="picture" id="image' + i + '" src="http://res.cloudinary.com/alkaproje/image/upload/c_lpad,q_auto:good,w_960,h_540/projects/' + projectName + '/' + i + '.jpg">');
+            $('#' + projectName + ' .pictures').append('<img class="picture" id="image' + i + '" src="http://res.cloudinary.com/alkaproje/image/upload/c_lpad,q_auto:good,w_800,h_450/projects/' + projectName + '/' + i + '.jpg">');
         }
         else{
             return;
