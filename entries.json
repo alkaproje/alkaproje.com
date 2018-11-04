@@ -771,6 +771,17 @@
     },
 
     {
+        "code" : "harmantepecamii",
+        "title" : "Harmantepe Camii ve Zeminaltı Otopark Projesi",
+        "client" : "İstanbul Büyükşehir Belediyesi",
+        "place" : "Harmantepe, İstanbul",
+        "year" : "2018",
+        "scale" : "11562",
+        "type" : "Kültür",
+        "description" : ""
+    },
+
+    {
         "code" : "sancaktepecocukkulubu",
         "title" : "Sancaktepe Çocuk Kulübü",
         "client" : "İstanbul Büyükşehir Belediyesi",
