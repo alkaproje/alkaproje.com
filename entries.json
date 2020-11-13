@@ -920,7 +920,7 @@
         "place" : "Altındağ, Ankara",
         "year" : "2019",
         "scale" : "1330",
-        "type" : "Kültür",
+        "type" : "Eğitim",
         "description" : ""
     },
 
@@ -931,7 +931,7 @@
         "place" : "Altındağ, Ankara",
         "year" : "2019",
         "scale" : "1558",
-        "type" : "Kültür",
+        "type" : "Eğitim",
         "description" : ""
     },
 
@@ -943,6 +943,17 @@
         "year" : "2020",
         "scale" : "1130",
         "type" : "Ticaret",
+        "description" : ""
+    },
+
+    {
+        "code" : "bagcilarkres",
+        "title" : "Bağcılar Çocuk Kulübü",
+        "client" : "İstanbul Büyükşehir Belediyesi",
+        "place" : "Bağcılar, İstanbul",
+        "year" : "2018",
+        "scale" : "1755",
+        "type" : "Eğitim",
         "description" : ""
     }
 ]
