@@ -1010,5 +1010,16 @@
         "scale" : "800",
         "type" : "Ofis",
         "description" : ""
+    },
+
+    {
+        "code" : "hktvilla",
+        "title" : "HKT Villası",
+        "client" : " ",
+        "place" : "Gölbaşı, Ankara",
+        "year" : "2020",
+        "scale" : "200",
+        "type" : "Konut",
+        "description" : ""
     }
 ]
