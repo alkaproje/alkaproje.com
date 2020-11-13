@@ -933,5 +933,16 @@
         "scale" : "1558",
         "type" : "Kültür",
         "description" : ""
+    },
+
+    {
+        "code" : "nasrettinhoca",
+        "title" : "Nasrettin Hoca Parkı ve Pazar Yeri",
+        "client" : "Altındağ Belediyesi",
+        "place" : "Altındağ, Ankara",
+        "year" : "2020",
+        "scale" : "1130",
+        "type" : "Ticaret",
+        "description" : ""
     }
 ]
