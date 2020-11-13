@@ -999,5 +999,16 @@
         "scale" : "30250",
         "type" : "Endüstri",
         "description" : ""
+    },
+
+    {
+        "code" : "caksofis",
+        "title" : "CAKS Ofis Binası",
+        "client" : "CAKS",
+        "place" : "Çankaya, Ankara",
+        "year" : "2020",
+        "scale" : "800",
+        "type" : "Ofis",
+        "description" : ""
     }
 ]
