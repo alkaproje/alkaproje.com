@@ -955,5 +955,16 @@
         "scale" : "1755",
         "type" : "Eğitim",
         "description" : ""
-    }
+    },
+
+    {
+        "code" : "ages",
+        "title" : "AGES Mühendislik Fabrika Binası",
+        "client" : "AGES Mühendislik",
+        "place" : "Temelli, Ankara",
+        "year" : "2019",
+        "scale" : "5670",
+        "type" : "Endüstri",
+        "description" : ""
+    },
 ]
