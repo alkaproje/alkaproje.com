@@ -828,11 +828,22 @@
     {
         "code" : "mates",
         "title" : "Mateş Fabrika Binası",
-        "client" : "Matel",
+        "client" : "Mateş",
         "place" : "Temelli, Ankara",
         "year" : "2019",
         "scale" : "12220",
         "type" : "Endüstri",
+        "description" : ""
+    },
+
+    {
+        "code" : "basaksehiritfaiye",
+        "title" : "Başakşehir İtfaiye İstasyonu",
+        "client" : "İstanbul Büyükşehir Belediyesi",
+        "place" : "Başakşehir, İstanbul",
+        "year" : "2019",
+        "scale" : "4275",
+        "type" : "Kamu",
         "description" : ""
     }
 ]
