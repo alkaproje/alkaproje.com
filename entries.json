@@ -889,5 +889,16 @@
         "scale" : "680",
         "type" : "Eğitim",
         "description" : ""
+    },
+
+    {
+        "code" : "okculuksalonu",
+        "title" : "Okçuluk Spor Salonu",
+        "client" : "Gençlik ve Spor Bakanlığı",
+        "place" : "Ankara",
+        "year" : "2020",
+        "scale" : "800",
+        "type" : "Eğitim",
+        "description" : ""
     }
 ]
