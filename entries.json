@@ -900,5 +900,16 @@
         "scale" : "800",
         "type" : "Eğitim",
         "description" : ""
+    },
+
+    {
+        "code" : "aslanhane",
+        "title" : "Aslanhane Belediye Çarşısı",
+        "client" : "Altındağ Belediyesi",
+        "place" : "Altındağ, Ankara",
+        "year" : "2020",
+        "scale" : "7510",
+        "type" : "Ticaret",
+        "description" : ""
     }
 ]
