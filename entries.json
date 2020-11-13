@@ -812,5 +812,16 @@
         "scale" : "15493",
         "type" : "Endüstri",
         "description" : ""
+    },
+
+    {
+        "code" : "titanmakina",
+        "title" : "Titan Makina Fabrika Binası",
+        "client" : "Titan Makina",
+        "place" : "Temelli, Ankara",
+        "year" : "2020",
+        "scale" : "12600",
+        "type" : "Endüstri",
+        "description" : ""
     }
 ]
