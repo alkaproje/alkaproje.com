@@ -988,5 +988,16 @@
         "scale" : "4300",
         "type" : "Eğitim",
         "description" : ""
+    },
+
+    {
+        "code" : "ceskompozit3",
+        "title" : "CES Fabrika Binası",
+        "client" : "CES",
+        "place" : "Temelli, Ankara",
+        "year" : "2020",
+        "scale" : "30250",
+        "type" : "Endüstri",
+        "description" : ""
     }
 ]
