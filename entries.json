@@ -867,5 +867,16 @@
         "scale" : "400",
         "type" : "Konut",
         "description" : ""
+    },
+
+    {
+        "code" : "tapuverimerkezi",
+        "title" : "Tapu ve Kadastro Müdürlüğü Veri Merkezi Hizmet Binası",
+        "client" : "Tapu ve Kadastro",
+        "place" : "Çankaya, Ankara",
+        "year" : "2020",
+        "scale" : "8000",
+        "type" : "Ofis",
+        "description" : ""
     }
 ]
