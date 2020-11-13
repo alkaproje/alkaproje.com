@@ -856,5 +856,16 @@
         "scale" : "26200",
         "type" : "Endüstri",
         "description" : ""
+    },
+
+    {
+        "code" : "hbvilla",
+        "title" : "HB Villası",
+        "client" : " ",
+        "place" : "Merkez, Çorum",
+        "year" : "2020",
+        "scale" : "400",
+        "type" : "Konut",
+        "description" : ""
     }
 ]
