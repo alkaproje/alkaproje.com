@@ -977,5 +977,16 @@
         "scale" : "9500",
         "type" : "Endüstri",
         "description" : ""
+    },
+
+    {
+        "code" : "tbmmkres",
+        "title" : "TBMM Kreş ve Gündüz Bakım Evi",
+        "client" : "TBMM",
+        "place" : "Çankaya, Ankara",
+        "year" : "2020",
+        "scale" : "4300",
+        "type" : "Eğitim",
+        "description" : ""
     }
 ]
