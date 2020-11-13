@@ -845,5 +845,16 @@
         "scale" : "4275",
         "type" : "Kamu",
         "description" : ""
+    },
+
+    {
+        "code" : "mtadepo",
+        "title" : "MTA Türkiye Yer Bilimleri Veri ve Karot Bilgi Bankası",
+        "client" : "MTA",
+        "place" : "Sincan, Ankara",
+        "year" : "2019",
+        "scale" : "26200",
+        "type" : "Endüstri",
+        "description" : ""
     }
 ]
