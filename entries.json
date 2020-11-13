@@ -922,5 +922,16 @@
         "scale" : "1330",
         "type" : "Kültür",
         "description" : ""
+    },
+
+    {
+        "code" : "altındagcocukkutuphanesi",
+        "title" : "Altındağ Çocuk Kütüphanesi ve Çocuk Kulübü",
+        "client" : "Altındağ Belediyesi",
+        "place" : "Altındağ, Ankara",
+        "year" : "2019",
+        "scale" : "1558",
+        "type" : "Kültür",
+        "description" : ""
     }
 ]
