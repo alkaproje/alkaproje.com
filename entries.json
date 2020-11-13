@@ -878,5 +878,16 @@
         "scale" : "8000",
         "type" : "Ofis",
         "description" : ""
+    },
+
+    {
+        "code" : "antrenmansalonu",
+        "title" : "Antrenman Salonu",
+        "client" : "Gençlik ve Spor Bakanlığı",
+        "place" : "Ankara",
+        "year" : "2020",
+        "scale" : "680",
+        "type" : "Eğitim",
+        "description" : ""
     }
 ]
