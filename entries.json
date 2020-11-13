@@ -911,5 +911,17 @@
         "scale" : "7510",
         "type" : "Ticaret",
         "description" : ""
+    },
+
+    {
+        "code" : "feriduncelik",
+        "title" : "Feridun Çelik Çocuk Kütüphanesi",
+        "client" : "Altındağ Belediyesi",
+        "place" : "Altındağ, Ankara",
+        "year" : "2019",
+        "scale" : "1330",
+        "type" : "Kültür",
+        "description" : ""
     }
+]
 ]
