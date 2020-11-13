@@ -967,4 +967,15 @@
         "type" : "Endüstri",
         "description" : ""
     },
+
+    {
+        "code" : "santes",
+        "title" : "Şantes Incinator Fabrika Binası",
+        "client" : "Şantes",
+        "place" : "Temelli, Ankara",
+        "year" : "2020",
+        "scale" : "9500",
+        "type" : "Endüstri",
+        "description" : ""
+    }
 ]
